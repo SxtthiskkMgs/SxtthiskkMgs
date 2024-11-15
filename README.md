@@ -1,3 +1,5 @@
+![Welcome Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fminji-newjeans-header-in-2023--704883779202698402%2F&psig=AOvVaw1g-nfRYMJOqbFT6uk0_c_X&ust=1731753381998000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIinkZmS3okDFQAAAAAdAAAAABAJ)
+
 # 👋 สวัสดีครับ!  
 
 ## 🧑‍🎓 Aboue me 
