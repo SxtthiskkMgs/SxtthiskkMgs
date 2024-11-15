@@ -1,7 +1,6 @@
 # Minji Stan!!
-![Welcome Banner](https://i.pinimg.com/736x/17/bc/5a/17bc5a61671308bdcf4bcc5a9946d642.jpg)
 <div align="center">
-    <img src="path/to/your-banner-image.png" alt="Banner Image">
+    <img src="https://i.pinimg.com/736x/17/bc/5a/17bc5a61671308bdcf4bcc5a9946d642.jpg" alt="Banner Image">
 </div>
 
 
