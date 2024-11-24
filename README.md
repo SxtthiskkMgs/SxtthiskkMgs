@@ -1,6 +1,6 @@
 # Minji Stan!!
 <div align="center">
-    <img src="https://i.pinimg.com/736x/17/bc/5a/17bc5a61671308bdcf4bcc5a9946d642.jpg" alt="Banner Image">
+    <img src="https://i.pinimg.com/736x/cb/b1/23/cbb123a3f55369a8474a899ecaa9d6fa.jpg" alt="Banner Image">
 </div>
 
 
