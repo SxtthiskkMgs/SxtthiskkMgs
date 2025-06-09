@@ -14,12 +14,12 @@
 ---
 
 ## 🌱 Currently work
-- ***get my lazy ass off***
+- ***get my lazy side off of me ;(***
 - ***start doing project soon***
 
 ---
 
-## 💻 Skills
+## 💻 Skills (all in beginner)
 - **ภาษาโปรแกรม:** Python, C, JavaScript  
 - **พัฒนาเว็บไซต์:** HTML5, CSS3, JavaScript  
 - **เครื่องมือและ Frameworks:** TensorFlow, OpenCV, Flask, Numpy, Pandas  
