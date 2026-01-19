@@ -8,7 +8,7 @@
 ## 🧑‍🎓 About me 
 - **ชื่อ:** สุทธิศักดิ์ เมืองไสย  
 - **ชื่อเล่น:** เพชร  
-- 🎂 **อายุ:** 18 ปี  
+- 🎂 **อายุ:** 19 ปี  
 - 🎓 **กำลังศึกษาอยู่ที่:** Kasetsart University
 
 ---
@@ -27,7 +27,8 @@
 
 ---
 
-## 🎯 GOAL 
+## 🎯 GOAL
+-- Cyber go go
 - Learn more
 - Remote work  
 - Be a good person
