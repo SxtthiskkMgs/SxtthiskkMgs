@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://www.reddit.com/r/kpop/comments/18iav59/newjeans_njwmx_new_logo_banner/?tl=th" alt="Banner Image">
+    <img src="https://uk.pinterest.com/pin/new-jeans-minji-twitter-header--643100021812672482/">
 </div>
 
 
