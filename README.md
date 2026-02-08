@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://uk.pinterest.com/pin/new-jeans-minji-twitter-header--643100021812672482/">
+    <img src="[https://uk.pinterest.com/pin/new-jeans-minji-twitter-header--643100021812672482/](https://i.pinimg.com/736x/17/bc/5a/17bc5a61671308bdcf4bcc5a9946d642.jpg)">
 </div>
 
 
