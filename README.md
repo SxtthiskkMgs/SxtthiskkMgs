@@ -15,17 +15,11 @@
 
 ## 🌱 Currently work
 - ***get my lazy side off of me ;(***
-- ***start doing project soon***
-
----
-
-## 💻 Skills (all in beginner)
-- **ความสนใจ:** Machine Learning, Deep Learning, Cyber  
+- ***start doing projects soon***
 
 ---
 
 ## 🎯 GOAL
--- Cyber go go
 - Learn more
 - Remote work  
 - Be a good person
