@@ -1,5 +1,5 @@
 <div align="center">
-    ![Minji New Jeans](https://i.pinimg.com/736x/17/bc/5a/17bc5a61671308bdcf4bcc5a9946d642.jpg)
+    <img src="https://i.pinimg.com/736x/17/bc/5a/17bc5a61671308bdcf4bcc5a9946d642.jpg" alt="Minji New Jeans" referrerpolicy="no-referrer">
 </div>
 
 
